@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayChats">
+
+        <item>"Jane"</item>
+        <item>"Mark"</item>
+        <item>"Kunal"</item>
+        <item>"Rahul"</item>
+        <item>"Nikita"</item>
+        <item>"Vacation Trip"</item>
+        <item>"Oscar"</item>
+        <item>"Nuria"</item>
+        <item>"Belen"</item>
+        <item>"Juan"</item>
+        <item>"Pepe"</item>
+        <item>"Miguel"</item>
+        <item>"Daniel"</item>
+        <item>"Noelia"</item>
+        <item>"Andres"</item>
+        <item>"Clara"</item>
+        <item>"Sergio"</item>
+
+
+    </string-array>
+
+</resources>
